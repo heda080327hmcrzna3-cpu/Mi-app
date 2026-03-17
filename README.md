@@ -11,10 +11,10 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hola, soy [TU NOMBRE]</h1> 
+        <h1>Hola, soy [JoseAntonioHernandezDiaz]</h1> 
         <p>Este es mi repositorio "MI APP"</p>
         
-        <img src="https://github.com/identicons/jedi.png" alt="Mi Foto">
+        <img src="https://github.com/identicons/jedi.png" alt="">
     </div>
 </body>
 </html>
